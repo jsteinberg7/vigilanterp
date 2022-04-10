@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569359286474",
+    "project_id": "suslogger",
+    "storage_bucket": "suslogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569359286474:android:75ed114ac919fc09dcf433",
+        "android_client_info": {
+          "package_name": "com.swoledevs.suslogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569359286474-o2k5vo3k36e521nf7hmkheo93sh5hksn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSJIWIjxd-LpaTMyiCM6Rv9AMopvJElQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569359286474-o2k5vo3k36e521nf7hmkheo93sh5hksn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
